@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "madhuri",
+      "email": "shubham@gmail.com",
+      "contact": "9834",
+      "address": "sangamner",
+      "id": 2
+    },
+    {
+      "name": "Nikit",
+      "email": "nikita@gmail.com",
+      "contact": "707",
+      "address": "sds",
+      "id": 4
+    },
+    {
+      "name": "shubham",
+      "email": "khatal",
+      "contact": "1234",
+      "address": "ganesh mla , dhandarphal kh ,sangmner",
+      "id": 5
+    }
+  ]
+}
